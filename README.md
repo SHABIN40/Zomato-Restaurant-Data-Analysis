@@ -16,4 +16,7 @@ Leveraging techniques in mass food production and food preservation science to s
 Identifying and focusing on popular and profitable cuisines in target markets to attract more customers and drive sales
 
 
+# Dashboard
+
+![Screenshot 2024-04-17 032907](https://github.com/SHABIN40/Zomato-Restaurant-Data-Analysis/assets/156992809/9fc579d2-1175-4e91-9f9c-73c5a5175b6b)
 
